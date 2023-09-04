@@ -14,10 +14,10 @@ Este es un proyecto simple que implementa el cifrado César en Java. El cifrado 
 
 5. Ejecuta la aplicación y verás el texto cifrado en la consola.
 
-##Notas
+## Notas
 Este es un proyecto muy básico para demostrar la implementación del cifrado César en Java. Puedes personalizarlo y expandirlo según tus necesidades.
 
-##Contribución
+## Contribución
 Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo!
 
 ## Ejemplo de uso
